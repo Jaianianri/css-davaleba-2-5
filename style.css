@@ -1,10 +1,58 @@
 * {
     margin: 0;
     padding: 0;
-   box-sizing: border-box;
+    box-sizing: border-box;
 }
+
 #header-div {
     max-width: 1920px;
     padding: 12px 32px;
     display: inline-block;
+}
+
+#Pricing {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#Contact {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#logo-logo {
+    vertical-align: middle;
+    display: inline-block;
+
+}
+
+#big-div {
+    background: #F1E8FF;
+    padding: 96px;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+#dolar-div {
+    padding: 0px 32px;
+
+}
+
+#Plans {
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 40px;
+}
+
+#Simple {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+}
+#grows {
+    max-width: 683px;
+    margin: 0 auto;
+    margin-top: 26px;
 }
