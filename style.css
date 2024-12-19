@@ -7,22 +7,30 @@
 #header-div {
     max-width: 1920px;
     padding: 12px 32px;
-    display: inline-block;
+    margin: 0 auto;
+    margin-bottom: 131px;
+    background: #FBF9FF;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
 
 #Pricing {
     display: inline-block;
     vertical-align: middle;
+    width: 30%;
+    text-align: center;
 }
 
 #Contact {
     display: inline-block;
     vertical-align: middle;
+    width: 30%;
+    text-align: right;
 }
 
 #logo-logo {
     vertical-align: middle;
     display: inline-block;
+    width: 30%;
 
 }
 
@@ -203,10 +211,19 @@
 
 }
 
+.running,
+a {
+    text-decoration: none;
+    color: #323232;
+    font-family: Inter;
+    font-size: 18px;
+}
+
 .running {
     display: inline-block;
     width: 619px;
     vertical-align: top;
+
 
 }
 
@@ -290,6 +307,16 @@
     padding: 32px 32px;
     width: 100%;
     display: inline-block;
+    margin-bottom: 24px;
+   
+
+}
+.uS {
+    border-radius: 8px;
+    border: 1px solid #6941C6;
+    padding: 8px 16px;
+    color: #FFF;
+    background: #6941C6;
 
 }
 
@@ -298,9 +325,11 @@
     font-family: Inika;
     font-size: 20px;
 }
+
 .profil {
     margin-top: 80px;
 }
+
 .Hewitt {
     display: inline-block;
     vertical-align: middle;
@@ -310,13 +339,16 @@
 .foto-wraper {
     vertical-align: middle;
 }
+
 .Sienna1 {
     display: inline-block;
 }
+
 .png {
     max-width: 95px;
     margin-left: 8px;
 }
+
 .comany {
     vertical-align: middle;
     display: inline-block;
